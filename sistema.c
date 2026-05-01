@@ -17,7 +17,7 @@ int main() {
     //entrada
     printf("\nCadastro Cliente\n\n");
     
-    printf("Digite o nome do cliente.:\n"); //apenas ler primeiro nome, corrigir futuramente, letras maiusculas pula a sequencia do codigo.
+    printf("Digite o nome do cliente.:\n"); //apenas ler primeiro nome, corrigir futuramente.
     scanf(" %s", nome);
 
     printf("Digite a placa do veiculo.:\n"); //versões futuras transforma tudo em maiusculo
